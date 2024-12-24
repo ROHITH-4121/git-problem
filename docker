@@ -1,0 +1,9 @@
+mkdir (filename)
+cd (filename)
+touch (filename).html
+notepad (filename).html
+touch dockerfile
+notepad dockerfile
+docker build -t (filename).
+docker run -d -p 8080:80 (filename)
+docker ps
