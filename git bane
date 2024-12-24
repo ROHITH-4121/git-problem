@@ -1,0 +1,24 @@
+mkdir (file name)
+cd (file name)
+git init
+touch s.txt
+git status
+git add .
+git status
+c:/windows/notepad as
+git commit -m"name"
+git remote add origin (link)
+git branch -m main
+git push -u origin main
+-------------------------
+push:-
+git clone (link)
+cg sel
+git checkout -b"s"
+git add .
+git commit -m"updated"
+git push origin "s"
+git add .
+git commit -m"address"
+git push origin s
+git pull origin main
